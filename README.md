@@ -1,2 +1,3 @@
 # Data-Science-Learning-Materials
-All books and pdfs related to Data Science and Machine Learnign
+All books and pdfs related to Data Science and Machine Learning
+
